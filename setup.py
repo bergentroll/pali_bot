@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     author='Alexandr Cherkaev',
     author_email=None,  # TODO
-    python_requires='>=3.9',
+    python_requires='>=3.9,<=3.11',
     url='https://github.com/Alexandr4812/pali_bot',
     license='Apache',
     description='Telegram bot to read suttas',
